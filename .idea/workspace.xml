@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5227a390-ff6b-4bc0-854f-f76c2e08ef85" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Services.html" afterPath="$PROJECT_DIR$/Services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StrategyTeam.html" afterPath="$PROJECT_DIR$/StrategyTeam.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-404.html" afterPath="$PROJECT_DIR$/page-404.html" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio.html" afterPath="$PROJECT_DIR$/Portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Services.html" afterPath="$PROJECT_DIR$/Services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StrategyTeam.html" afterPath="$PROJECT_DIR$/StrategyTeam.html" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
+>>>>>>> origin/master
     </list>
     <ignored path="FGL-team.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,32 +34,72 @@
     <favorites_list name="FGL-team" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf>
+      <file leaf-file-name="StrategyTeam.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StrategyTeam.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="289" column="144" selection-start-line="289" selection-start-column="144" selection-end-line="289" selection-end-column="144" />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="StrategyTeam.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StrategyTeam.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="82" column="41" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="Services.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1431">
+              <caret line="396" column="80" selection-start-line="396" selection-start-column="80" selection-end-line="396" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-404.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page-404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="197" column="144" selection-start-line="197" selection-start-column="144" selection-end-line="197" selection-end-column="144" />
+=======
       <file leaf-file-name="Portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="118" column="53" selection-start-line="118" selection-start-column="53" selection-end-line="118" selection-end-column="53" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="Portfolio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
       <file leaf-file-name="Services.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Services.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.17322835">
               <caret line="103" column="52" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
+=======
+            <state vertical-scroll-proportion="0.4315305">
+              <caret line="118" column="53" selection-start-line="118" selection-start-column="53" selection-end-line="118" selection-end-column="53" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
+>>>>>>> origin/master
               <folding />
             </state>
           </provider>
@@ -62,8 +114,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/StrategyTeam.html" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/Services.html" />
+        <option value="$PROJECT_DIR$/page-404.html" />
+=======
         <option value="$PROJECT_DIR$/Portfolio.html" />
         <option value="$PROJECT_DIR$/Services.html" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
       </list>
     </option>
   </component>
@@ -193,12 +250,12 @@
       <created>1466619032987</created>
       <option name="number" value="Default" />
       <updated>1466619032987</updated>
-      <workItem from="1466619034555" duration="1050000" />
+      <workItem from="1466619034555" duration="2772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1050000" />
+    <option name="totallyTimeSpent" value="2772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1920" height="1031" extended-state="0" />
@@ -209,8 +266,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+=======
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -230,9 +292,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+=======
     <entry file="file://$PROJECT_DIR$/StrategyTeam.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <caret line="82" column="41" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
           <folding />
         </state>
@@ -257,6 +325,9 @@
     <entry file="file://$PROJECT_DIR$/StrategyTeam.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+=======
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
+>>>>>>> origin/master
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -264,31 +335,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+=======
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StrategyTeam.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="309">
+          <caret line="289" column="144" selection-start-line="289" selection-start-column="144" selection-end-line="289" selection-end-column="144" />
+=======
+        <state vertical-scroll-proportion="-4.375">
+>>>>>>> origin/master
           <caret line="82" column="41" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-27.5">
+>>>>>>> origin/master
           <caret line="118" column="53" selection-start-line="118" selection-start-column="53" selection-end-line="118" selection-end-column="53" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Services.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.17322835">
           <caret line="103" column="52" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="-1431">
+          <caret line="396" column="80" selection-start-line="396" selection-start-column="80" selection-end-line="396" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="197" column="144" selection-start-line="197" selection-start-column="144" selection-end-line="197" selection-end-column="144" />
+=======
+        <state vertical-scroll-proportion="0.4315305">
+          <caret line="118" column="53" selection-start-line="118" selection-start-column="53" selection-end-line="118" selection-end-column="53" />
+>>>>>>> 3ab698513d9557e0feb745f3ef1223c43bb295d6
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
